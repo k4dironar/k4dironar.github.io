@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://kadironar.github.io/sitemap.xml
